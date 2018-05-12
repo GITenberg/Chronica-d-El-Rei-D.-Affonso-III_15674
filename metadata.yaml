@@ -1,0 +1,34 @@
+_repo: Chronica-d-El-Rei-D.-Affonso-III_15674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pina, Rui de
+    alias: Pina, Ruy de
+    birthdate: 1440
+    deathdate: 1521
+    gutenberg_agent_id: '6799'
+    url: http://www.gutenberg.org/2009/agents/6799
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Rui_de_Pina
+    - http://pt.wikipedia.org/wiki/Rui_de_Pina
+description: ''
+gutenberg_bookshelf:
+- PT História
+- PT Biografia
+gutenberg_issued: '2005-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15674'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Afonso III, King of Portugal, 1210-1279'
+- !lcc 'DP'
+- !lcsh 'Portugal -- History -- Afonso III, 1248-1279'
+title: Chronica d'El-Rei D. Affonso III
+url: http://www.gutenberg.org/ebooks/15674
